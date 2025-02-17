@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "67a1acc41a16abc6ca99ea55"
+  },
+  "name": "Apple",
+  "price": 75,
+  "category": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67a1acc41a16abc6ca99ea56"
+  },
+  "name": "Mango",
+  "price": 120,
+  "category": "Fruit"
+},
+{
+  "_id": {
+    "$oid": "67a1acc41a16abc6ca99ea57"
+  },
+  "name": "Watermelon",
+  "price": 80,
+  "taste": "sweet",
+  "category": "Fruit"
+}]
