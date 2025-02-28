@@ -11,8 +11,12 @@
     -   Super Key - Any set of columns or a single column which can identify the records uniquely
     -   Candidate Key - A set of Minimal columns or a single column which can identify the records uniquely 
     -   Primary Key - A set of column or a single column choosen for a relation to identify the records uniquely
+        -   Can not be NULL
     -   Alternate Key - Any key other than Primary key in Candidate key is considered as Alternate key
+    -   Unique Key - A column or group of columns which has all unique values and it can also contain one NULL value.
     -   Composite Key - A type of Primary Key where two or more attributes are used to identify the records uniquely
+    -   Foreign Key: A key in a relation which is a reference of primary key or candidate key of some another table showing relationship between two relations(tables).
+        -   Can be NULL
 
 ## Functional Dependency
 -   Any attribute which is dependent on other attribute for its identification forms a functional dependency.
